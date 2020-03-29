@@ -1,3 +1,6 @@
 This is demo project
 Hello
-Nishchyddda
+<<<<<<< HEAD
+=======
+Nishchysda
+>>>>>>> verybad
